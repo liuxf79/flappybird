@@ -20,8 +20,8 @@
 │   └── Land.js                            // 地面类
 └── Director.js                            // 导演类，用于全局控制
 
-./res																				// 图片素材
-./audio                                   	// 音频资源
+./res                                       // 图片素材
+./audio                                     // 音频资源
 
 ./game.js                                   // 微信小游戏启动文件
 ./game.json                                 // 微信小游戏基础配置文件
